@@ -1,0 +1,6 @@
+C:\Users\Student\401\UnitTest-Redo\obj\Debug\net6.0\UnitTest-Redo.csproj.AssemblyReference.cache
+C:\Users\Student\401\UnitTest-Redo\obj\Debug\net6.0\UnitTest-Redo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\401\UnitTest-Redo\obj\Debug\net6.0\UnitTest-Redo.AssemblyInfoInputs.cache
+C:\Users\Student\401\UnitTest-Redo\obj\Debug\net6.0\UnitTest-Redo.AssemblyInfo.cs
+C:\Users\Student\401\UnitTest-Redo\obj\Debug\net6.0\UnitTest-Redo.csproj.CoreCompileInputs.cache
+C:\Users\Student\401\UnitTest-Redo\bin\Debug\net6.0\CoverletSourceRootsMapping
